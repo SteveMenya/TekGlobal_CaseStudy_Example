@@ -26,7 +26,8 @@ public class User {
 		super();
 	}
 	
-
+//random sections
+	
 	public User(String username, String email, String password) {
 		super();
 		this.userId = userId;
